@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1390316218 source:c:\google driver\kmeans\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<limits.h>
+	"resource.h"
+
+1390314417 source:c:\google driver\kmeans\myalgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+
+1390316015 source:c:\google driver\kmeans\menu.rc
+	"resource.h"
+	"afxres.h"
+
+1390315999 c:\google driver\kmeans\resource.h
+
+1390473682 source:c:\users\jsw\google ¶³ºÝµwºÐ\kmeans\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<limits.h>
+	"resource.h"
+
+1390473184 c:\users\jsw\google ¶³ºÝµwºÐ\kmeans\resource.h
+
+1390473461 source:c:\users\jsw\google ¶³ºÝµwºÐ\kmeans\menu.rc
+	"resource.h"
+	"afxres.h"
+
+1390473421 source:c:\users\jsw\google ¶³ºÝµwºÐ\kmeans\myalgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+
+1422454310 source:c:\users\jsw\google\kmeans\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"resource.h"
+
+1390473184 c:\users\jsw\google\kmeans\resource.h
+
+1390473461 source:c:\users\jsw\google\kmeans\menu.rc
+	"resource.h"
+	"afxres.h"
+
+1390473421 source:c:\users\jsw\google\kmeans\myalgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+
